@@ -1,5 +1,5 @@
       var currentDate = new Date();
-var expiryDate = new Date("09/07/2022 08:00:00 PM");
+var expiryDate = new Date("09/10/2022 08:00:00 PM");
 
 if(currentDate>=expiryDate){
    	var opacity=0;
